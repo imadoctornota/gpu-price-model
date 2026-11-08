@@ -55,7 +55,7 @@ The raw archived pages and per-card price tables aren't included. Run the notebo
 
 ## About the code
 
-I built this with a lot of help from Claude (Anthropic's AI). I checked the results and the logic, but if you find a bug, open an issue and I'll fix it and pin the correction under the video.
+I built this with help from Claude (Anthropic's AI). I checked the results and the logic, but if you find a bug, open an issue and I'll fix it and pin the correction under the video.
 
 Not financial advice.
 
